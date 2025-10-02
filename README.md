@@ -38,11 +38,7 @@ It covers hands-on tutorials, code samples, and comparison experiments across th
 
 ## ▶️ Run in Google Colab
 
-Each notebook can be opened and run directly in Google Colab:
-
-- [NVIDIA NeMo Guardrails Notebook](#)  
-- [Llama Guard Notebook](#)  
-- [Guardrails AI Notebook](#)  
+Each notebook can be opened and run directly in Google Colab
 
 ---
 
